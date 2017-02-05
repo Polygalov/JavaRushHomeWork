@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="apidocs">
+    <CLASSES />
+    <JAVADOC>
+      <root url="jar://D:/Java/Plugins/Apache Commons Collections/commons-collections4-4.1-bin.zip!/commons-collections4-4.1/apidocs" />
+    </JAVADOC>
+    <SOURCES />
+  </library>
+</component>

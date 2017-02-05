@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.javarush.test.level34.lesson15.big01.controller.Contro
+ ller
+
